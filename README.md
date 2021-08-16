@@ -1,1 +1,1 @@
-# Find-Movies-React-Next-Tailwind
+# Find-Movies-React-Next.js-Tailwind
